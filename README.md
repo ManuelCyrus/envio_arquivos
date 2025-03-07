@@ -14,7 +14,7 @@ Este projeto foi desenvolvido durante meu estágio na área de **TI** na **ENDE-
 ## 📸 Prévia do Projeto  
 Aqui está uma imagem demonstrando a interface do sistema:  
 
-![Prévia do Projeto](previa.PNG)  
+![Prévia do Projeto](previa.png)  
 
 ## 🔧 Funcionalidades  
 ✔️ **Salvar Arquivos** – Armazena documentos no banco de dados MySQL  
